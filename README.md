@@ -5,5 +5,4 @@ In this repository we present the tools needed to develop the examples in the pa
 The notebook [ideal-class-monoid](https://github.com/numerical-semigroups/ideal-class-monoid/blob/main/class%20monoid.ipynb) contains the necessary code (written using the [GAP](https://www.gap-system.org/) package [numericalsgps](https://gap-packages.github.io/numericalsgps/)), together with some examples extracted from the above manuscript.
 
 
-You can run this notebook via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/numerical-semigroups/ideal-class-monoid/HEAD?labpath=class-monoid.ipynb)
-
+You can run this repo via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/numerical-semigroups/ideal-class-monoid/HEAD)
