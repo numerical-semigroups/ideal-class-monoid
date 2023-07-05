@@ -8,7 +8,7 @@ The notebook [ideal-class-monoid](https://github.com/numerical-semigroups/ideal-
 You can run this repo via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/numerical-semigroups/ideal-class-monoid/HEAD)
 
 
-# Apéty sets and the ideal class monoid of a numerical semigroup
+## Apéty sets and the ideal class monoid of a numerical semigroup
 
 Given a Dedekind domain $D$, its class group is defined as the set of fractional ideals of $D$ modulo its principal ideals. The cardinality of the class group measures how far the domain is from being a principal ideal domain. Fractional ideals can be considered on any integral domain. However, on a domain, not every fractional ideal has an inverse, and thus the quotient of the set of fractional ideals modulo principal ideals is no longer a group, and it is just a commutative monoid. In both cases, the operation that gives the group or monoid structure is the product of equivalence classes of fractional ideals, which is defined as the class of the product of any two representatives of the classes.
 
