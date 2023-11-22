@@ -32,4 +32,4 @@ At the end of [3], we propose a series of open questions related to the ideal cl
 
 [2] S. Tringali, An Abstract Factorization Theorem and Some Applications,  J. Algebra, 602 (2022), 352--380.
 
-[3] L. Casabella, M. D'Anna, P. A. García-Sánchez, Apéry sets and the ideal class monoid of a numerical semigroup, arXiv:2302.09647.
+[3] L. Casabella, M. D'Anna, P. A. García-Sánchez, Apéry sets and the ideal class monoid of a numerical semigroup, [Mediterr. J. Math. 21:7 (2024)](https://link.springer.com/article/10.1007/s00009-023-02550-8); [arxiv.org/2302.09647](https://arxiv.org/abs/2302.09647).
