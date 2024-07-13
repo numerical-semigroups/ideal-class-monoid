@@ -5,6 +5,8 @@ In this repository we present the tools needed to develop the examples in the pa
 
 The notebook [ideal-class-monoid](https://github.com/numerical-semigroups/ideal-class-monoid/blob/main/class-monoid.ipynb) contains the necessary code (written using the [GAP](https://www.gap-system.org/) package [numericalsgps](https://gap-packages.github.io/numericalsgps/)), together with some examples extracted from the first manuscript. The notebook [isomorphism-ideal-class-monoid](https://github.com/numerical-semigroups/ideal-class-monoid/blob/main/isomorphism-ideal-class-monoid.ipynb) contains examples for the second manuscript.
 
+This [slides](https://pedritomelenas.github.io/slides-imns-2024) contain a presentation on this topic at [IMNS2024](https://imns2024.uca.es/).
+
 You can run this repo via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/numerical-semigroups/ideal-class-monoid/HEAD)
 
 ## Apéry sets and the ideal class monoid of a numerical semigroup
